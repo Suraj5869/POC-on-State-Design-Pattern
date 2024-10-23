@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\bin\Debug\net8.0\StateDesignDemo.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\bin\Debug\net8.0\StateDesignDemo.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\bin\Debug\net8.0\StateDesignDemo.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\bin\Debug\net8.0\StateDesignDemo.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\bin\Debug\net8.0\StateDesignDemo.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\StateDesignDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\StateDesignDemo.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\StateDesignDemo.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\StateDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\StateDesignDemo.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\refint\StateDesignDemo.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\StateDesignDemo.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\StateDesignDemo.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\StateDesignDemo\StateDesignDemo\obj\Debug\net8.0\ref\StateDesignDemo.dll
